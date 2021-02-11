@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EnglishUp</string>
+    <string name="regerg">regerg</string>
+    <string name="textview">Приступим к изучению английского языка!</string>
+    <string name="button">Lets go!</string>
+    <string name="button1">Учить</string>
+    <string name="textview1">Book</string>
+</resources>
